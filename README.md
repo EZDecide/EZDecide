@@ -16,6 +16,50 @@ EZDecide is a social decision making app. When people have difficult in making d
 ### Compose / Comments
 <img src='Wireframes/ComposeView.png' title='Compose View' width='260' alt='Compose View' /> <img src='Wireframes/CommentsView.png' title='Comments View' width='260' alt='Comments View' />
 
+## Our Server
+We decided to use firebase as our server, since it is free and easy to use.
+
+## Models
+
+### Post
+#### Properties:
+
+##### IDs:
+postId, optionOneId, optionTwoId, optionThreeId, optionFourId, ownerId, userVoteId, userVoteOptionId
+
+##### NSDictionarys:
+votes, comments
+
+##### Strings:
+description, optionOneTitle, optionTwoTitle, optionThreeTitle, optionFourTitle, category
+
+##### INTs:
+votesCount, commentsCount, reportCounts
+
+##### URLs:
+optionOneImageUrl, optionTwoImageUrl, optionThreeImageUrl, optionFourImageUrl
+
+##### Date:
+createdAt
+
+
+### User
+#### Properties:
+
+##### IDs:
+userId
+
+##### NSDictionarys:
+followings, followers
+
+##### Strings:
+username, gender, zodiac, notificationDeviceToken
+
+##### URL:
+profileImageUrl
+
+##### Date:
+birthday
 
 
 
