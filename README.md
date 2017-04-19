@@ -3,6 +3,8 @@
 ## Description
 EZDecide is a social decision making app. When people have difficult in making decision of something, they can make a post asking other users for help to make a final decision. In the post, users can have a detailed description of the problem, with 2 ~ 4 options(title and pictures). Users can also pick a pre-defined category for their post. Users can view posts by category, and they can vote and comment while browsing.
 
+
+
 ## Required User Stories
 
 ### Login / Register
