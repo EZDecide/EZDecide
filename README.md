@@ -10,7 +10,11 @@ EZDecide is a social decision making app. When people have difficult in making d
 
 ### Main / Nearby / Notification / Profile
 <img src='Wireframes/MainView.png' title='Main View' width='260' alt='Main View' /> <img src='Wireframes/NearbyPostsView.png' title='Nearby Posts View' width='260' alt='Nearby Posts View' />
+
 <img src='Wireframes/NotificationsView.png' title='Notifications View' width='260' alt='Notifications View' /> <img src='Wireframes/ProfileView.png' title='Profile View' width='260' alt='Profile View' />
+
+### Compose / Comments
+<img src='Wireframes/ComposeView.png' title='Compose View' width='260' alt='Compose View' /> <img src='Wireframes/CommentsView.png' title='Comments View' width='260' alt='Comments View' />
 
 
 
